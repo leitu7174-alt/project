@@ -7,26 +7,26 @@ Proyek ini bertujuan untuk menganalisis hubungan antara tingkat sosial ekonomi, 
 
 ## 📊 Sumber Data
 * **Data Kinerja Sekolah:**
-    * **Nama:** Rapor Pendidikan Indonesia Tahun 2025
+    * **Nama:** Data rapor pendidikan indonesia 2025 indonesia
     * **Sumber:** Platform Rapor Pendidikan Kemendikbudristek
-    * **Link:** `[TULISKAN URL SUMBER DATA DI SINI]`
+    * **Link:** 
 * **Data Sosial Ekonomi:**
-    * **Nama:** Persentase Penduduk Miskin (P0) Menurut Provinsi
+    * **Nama:** Persentase Penduduk Miskin (P0) Menurut Provinsi dan Daerah, 2025
     * **Sumber:** Badan Pusat Statistik (BPS)
-    * **Link:** `[TULISKAN URL SUMBER DATA DI SINI]`
+    * **Link:** 
 
 ---
 
 ## 💻 Teknologi yang Digunakan
 - **Bahasa:** Python
-- **Libraries:** Pandas, Matplotlib, Seaborn
-- **Tools:** Jupyter Notebook, GitHub
+- **Libraries:** Pandas, Matplotlib, Seaborn,...
+- **Tools:** Jupyter Notebook, GitHub,...
 
 ---
 
 ## 👥 Anggota Tim & Peran
-- **Data Lead:** [Nama Anda]
-- **Data Wrangler:** [Nama Anggota]
-- **Viz Engineer:** [Nama Anggota]
-- **Stats Analyst:** [Nama Anggota]
-- **Storyteller:** [Nama Anggota]
+- **Data Lead:** Muhammad Shaquikle Syafiq
+- **Data Wrangler:** Elina
+- **Viz Engineer:** Selvy
+- **Stats Analyst:** Muhammad Daffa Khrisadi
+- **Storyteller:** Maulida
