@@ -24,9 +24,16 @@ Proyek ini bertujuan untuk menganalisis hubungan antara tingkat sosial ekonomi, 
 
 ---
 
-## 👥 Anggota Tim & Peran
-- **Data Lead:** Muhammad Shaquikle Syafiq
-- **Data Wrangler:** Elina
-- **Viz Engineer:** Selvy
-- **Stats Analyst:** Muhammad Daffa Khrisadi
-- **Storyteller:** Maulida
+## 👥 Tim Kami
+Berikut adalah anggota tim dan peran masing-masing dalam proyek ini:
+
+* **Data Lead:** `Muhammad Shaquille Syafiq`
+    * *Tanggung Jawab: Akuisisi, dokumentasi, dan penyiapan data awal.*
+* **Data Wrangler:** `Elina`
+    * *Tanggung Jawab: Pembersihan data, penanganan nilai yang hilang, dan transformasi data.*
+* **Stats Analyst:** `Selvy`
+    * *Tanggung Jawab: Analisis statistik deskriptif dan inferensial.*
+* **Viz Engineer:** `Muhammad Daffa Khrisadi`
+    * *Tanggung Jawab: Pembuatan visualisasi data dan dashboard.*
+* **Storyteller:** `Maulida`
+    * *Tanggung Jawab: Penyusunan narasi, interpretasi hasil, dan presentasi akhir.*
