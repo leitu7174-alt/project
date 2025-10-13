@@ -24,6 +24,9 @@ Proyek ini bertujuan untuk menganalisis hubungan antara tingkat sosial ekonomi, 
 
 ---
 
+## Link Repository
+**https://github.com/litu7174-alt/project.git**
+
 ## 👥 Tim Kami
 Berikut adalah anggota tim dan peran masing-masing dalam proyek ini:
 
