@@ -1,7 +1,7 @@
 # Analisis Pengaruh Latar Belakang Sosial Ekonomi terhadap Kinerja Sekolah di Indonesia
 
 ## Deskripsi Singkat
-Proyek ini bertujuan untuk menganalisis hubungan antara tingkat sosial ekonomi, yang diukur melalui persentase kemiskinan per provinsi, dengan kinerja pendidikan yang tercermin dalam data Rapor Pendidikan 2025. Dengan menggabungkan kedua dataset tersebut, kami melakukan analisis korelasi untuk menemukan pola dan memberikan rekomendasi kebijakan.
+Proyek ini bertujuan untuk menganalisis hubungan antara tingkat sosial ekonomi, yang diukur melalui persentase kemiskinan per Kabupaten/Kota, dengan kinerja pendidikan yang tercermin dalam data akreditasi sekolah per Kabupaten/kota. Dengan menggabungkan kedua dataset tersebut, kami melakukan analisis korelasi untuk menemukan pola dan memberikan rekomendasi kebijakan.
 
 ---
 
