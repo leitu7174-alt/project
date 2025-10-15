@@ -7,13 +7,13 @@ Proyek ini bertujuan untuk menganalisis hubungan antara tingkat sosial ekonomi, 
 
 ## 📊 Sumber Data
 * **Data Kinerja Sekolah:**
-    * **Nama:** Data rapor pendidikan indonesia 2025 indonesia
-    * **Sumber:** Platform Rapor Pendidikan Kemendikbudristek
-    * **Link:** 
+    * **Nama:** Data Akreditasi
+    * **Sumber:** Badan Akreditasi Nasional Pendidikan Anak Usia Dini, Pendidikan Dasar, dan Pendidikan Menengah (BAN-PDM)
+    * **Link:** https://ban-pdm.id/news/detail/2024/12/unduh-sk-penetapan-hasil-akreditasi-sekolah-madrasah-dan-program-kesetaraan-tahun-2024
 * **Data Sosial Ekonomi:**
-    * **Nama:** Persentase Penduduk Miskin (P0) Menurut Provinsi dan Daerah, 2025
+    * **Nama:** Garis Kemiskinan Menurut Kabupaten_Kota, 2024
     * **Sumber:** Badan Pusat Statistik (BPS)
-    * **Link:** 
+    * **Link:** https://www.bps.go.id/id/statistics-table/2/NjI0IzI=/garis-kemiskinan-menurut-kabupaten-kota.html
 
 ---
 
@@ -32,13 +32,13 @@ Proyek ini bertujuan untuk menganalisis hubungan antara tingkat sosial ekonomi, 
 ## 👥 Tim Kami
 Berikut adalah anggota tim dan peran masing-masing dalam proyek ini:
 
-* **Data Lead:** `Muhammad Shaquille Syafiq`
+* **Data Lead:** `Shaquille`
     * *Tanggung Jawab: Akuisisi, dokumentasi, dan penyiapan data awal.*
 * **Data Wrangler:** `Elina`
     * *Tanggung Jawab: Pembersihan data, penanganan nilai yang hilang, dan transformasi data.*
-* **Stats Analyst:** `Selvy`
-    * *Tanggung Jawab: Analisis statistik deskriptif dan inferensial.*
-* **Viz Engineer:** `Muhammad Daffa Khrisadi`
+* **Viz Engineer:** `Selvy`
     * *Tanggung Jawab: Pembuatan visualisasi data dan dashboard.*
+* **Stats Analyst:** `Daffa`
+    * *Tanggung Jawab: Analisis statistik deskriptif dan inferensial.*
 * **Storyteller:** `Maulida`
     * *Tanggung Jawab: Penyusunan narasi, interpretasi hasil, dan presentasi akhir.*
