@@ -10,18 +10,15 @@
 | Atribut | Deskripsi |
 |----------|------------|
 | **Judul Dataset Gabungan** | Analisis Hubungan Akreditasi Pendidikan dan Garis Kemiskinan per Kabupaten/Kota di Indonesia |
-| **Sumber Data Utama** | 1️⃣ Kemdikbud — Data Akreditasi Sekolah per Kabupaten/Kota<br>2️⃣ BPS — Garis Kemiskinan per Kabupaten/Kota Tahun 2024 |
+| **Sumber Data Utama** | 1️⃣ BAN-PDM - Akreditasi Sekolah, Madrasah, dan Program Pendidikan Kesetaraan Tahun 2024<br>2️⃣ BPS — Garis Kemiskinan per Kabupaten/Kota Tahun 2024 |
 | **Cakupan Wilayah** | Kabupaten/Kota di 38 Provinsi di Indonesia |
 | **Cakupan Waktu** | Tahun 2024 |
 | **Unit Analisis** | Kabupaten/Kota |
 | **Format File** | `.csv` |
 | **Tujuan Dataset** | Mengukur hubungan antara kinerja pendidikan (akreditasi sekolah) dan kesejahteraan ekonomi (garis kemiskinan) |
 | **Frekuensi Pengumpulan Data** | Tahunan |
-| **Sumber Resmi** | [https://www.bps.go.id](https://www.bps.go.id) • [https://sekolah.data.kemdikbud.go.id](https://sekolah.data.kemdikbud.go.id) |
+| **Sumber Resmi** | [(https://www.bps.go.id/id/statistics-table/2/NjI0IzI=/garis-kemiskinan-menurut-kabupaten-kota.html)] • [https://ban-pdm.id/news/detail/2024/12/unduh-sk-penetapan-hasil-akreditasi-sekolah-madrasah-dan-program-kesetaraan-tahun-2024] |
 | **Lisensi** | Data Publik Pemerintah Indonesia |
-| **Tanggal Dibuat** | 15 Oktober 2025 |
-| **Versi Dataset** | v1.0 |
-| **Penanggung Jawab Dokumentasi** | Sole (Data Lead) |
 
 ---
 
@@ -50,7 +47,7 @@
 | 5 | `Provinsi` | string | Nominal | Nama provinsi tempat kabupaten/kota berada | - | Aceh | Kemdikbud |
 
 > **Catatan:** Dataset ini memuat nilai rata-rata akreditasi dan skor akreditasi pendidikan per kabupaten/kota di Indonesia.  
-> Tipe “Rata rata akreditasi” bersifat **ordinal** karena mewakili urutan kualitas (A > B > C).
+> Tipe “Rata rata akreditasi” bersifat **ordinal** karena mewakili urutan kualitas (A > B > C > Tidak Terakreditasi).
 
 ---
 
