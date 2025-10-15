@@ -63,14 +63,3 @@
 | **Tujuan** | Menghasilkan dataset terintegrasi berisi skor akreditasi dan garis kemiskinan per kabupaten/kota |
 
 ---
-
-## 🧩 Versi Dokumen
-| Atribut | Nilai |
-|----------|--------|
-| **Nama Dokumen** | `data_dictionary.md` |
-| **Versi** | 1.0 |
-| **Tanggal Update Terakhir** | 15 Oktober 2025 |
-| **Dibuat oleh** | Sole (Data Lead) |
-| **Tim Proyek** | Data EDA Akreditasi & Kemiskinan 2025 |
-
----
