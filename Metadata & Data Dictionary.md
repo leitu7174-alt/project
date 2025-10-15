@@ -40,11 +40,11 @@
 
 | No | Nama Kolom | Tipe Data | Skala Pengukuran | Deskripsi | Satuan | Contoh Nilai | Sumber |
 |----|-------------|------------|------------------|------------|---------|---------------|--------|
-| 1 | `No.` | integer | Nominal | Nomor urut data | - | 1 | Kemdikbud |
-| 2 | `Kabupaten` | string | Nominal | Nama kabupaten atau kota | - | Kota Banda Aceh | Kemdikbud |
-| 3 | `Rata rata akreditasi` | string | Ordinal | Nilai rata-rata akreditasi dalam huruf (A, B, C) | Kategori | B | BAN-S/M |
-| 4 | `Skor` | float | Interval | Skor numerik hasil penilaian akreditasi | Skor | 3.40 | BAN-S/M |
-| 5 | `Provinsi` | string | Nominal | Nama provinsi tempat kabupaten/kota berada | - | Aceh | Kemdikbud |
+| 1 | `No.` | integer | Nominal | Nomor urut data | - | 1 | BAN-PDM |
+| 2 | `Kabupaten` | string | Nominal | Nama kabupaten atau kota | - | Kota Banda Aceh | BAN-PDM |
+| 3 | `Rata rata akreditasi` | string | Ordinal | Nilai rata-rata akreditasi dalam huruf (A, B, C, Tidak Terakreditasi) | Kategori | B | BAN-PDM |
+| 4 | `Skor` | float | Interval | Skor numerik hasil penilaian akreditasi | Skor | 3.40 | BAN-PDM |
+| 5 | `Provinsi` | string | Nominal | Nama provinsi tempat kabupaten/kota berada | - | Aceh | BAN-PDM |
 
 > **Catatan:** Dataset ini memuat nilai rata-rata akreditasi dan skor akreditasi pendidikan per kabupaten/kota di Indonesia.  
 > Tipe “Rata rata akreditasi” bersifat **ordinal** karena mewakili urutan kualitas (A > B > C > Tidak Terakreditasi).
